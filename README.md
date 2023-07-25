@@ -3,6 +3,14 @@
 # The bot is intended for technical support for Telegram.
 It will help you quickly get information about a problem or suggestion from users.
 
+#    Installation instructions in Termux:
+1. pkg update & pkg upgrade
+2. apt install curl git python3 openssh -y
+3. git clone https://github.com/NeonAmigo/TSB.git
+4. cd TSB
+5. pip install -r requirements.txt
+6. python main.py
+
 #    Instructions for use:
 1. Get a token for your bot (@BotFather)
 2. Get the digital id* of the administrator (@myidbot)
