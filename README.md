@@ -1,6 +1,6 @@
 # TSB 
 (Telegram Support Bot)
-#The bot is intended for technical support for Telegram.
+# The bot is intended for technical support for Telegram.
 It will help you quickly get information about a problem or suggestion from users.
 
 #    Instructions for use:
