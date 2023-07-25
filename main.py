@@ -19,9 +19,9 @@ while True:
     print("3. Links")
     print("4. Exit")
 
-    choice = int(input("\033[32mEnter action number:\033[0m "))
+    choice = input("\033[32mEnter action number:\033[0m ")
 
-    if choice == 1:
+    if choice == "1":
         os.system('cls||clear')
         from modules import load
         os.system('cls||clear')
@@ -64,18 +64,18 @@ while True:
                 except Exception as _ex:
                     print(_ex)
                     sleep(15)
-    elif choice == 2:
+    elif choice == "2":
         sleep(0.9)
         print('\n\nWe are a team of developers, creating open source software to help people around the world solve their problems and improve the quality of life. We strive to ensure that our products are available to everyone who needs them, and that our work is available to the public. We believe in the power of community and encourage everyone to join us in creating a better world. Thanks for choosing us!\n\n')
         sleep(2)
         pass
-    elif choice == 3:
+    elif choice == "3":
         sleep(0.9)
         print(""" \n<\033[33m/\033[0m> \033[42mTelegram : @iNeonYT | @PyCodeMan \033[0m\n<\033[33m/\033[0m> \033[43mCoding Telegram : t.me/acodebeta \033[0m\n<\033[33m/\033[0m> \033[41mGithub : https://github.com/ACodeBeta \033[0m\n                    
 """)
         sleep(2)
         pass
-    elif choice == 4:
+    elif choice == "4":
         break
     else:
         print("\033[31mWrong choice. Try again.\033[0m")
