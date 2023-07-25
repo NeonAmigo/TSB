@@ -1,5 +1,7 @@
 # TSB
-# The bot is intended for technical support of your channel \ chat in the Telegram. It will help you quickly get information about a problem or suggestion from users.
+# The bot is intended for technical support
+of your channel or chat in the Telegram.
+It will help you quickly get information about a problem or suggestion from users.
 
 # Instructions for use:
 1. Get a token for your bot (@BotFather)
