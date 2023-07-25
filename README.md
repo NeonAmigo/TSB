@@ -7,6 +7,7 @@ It will help you quickly get information about a problem or suggestion from user
 2. Get the digital id* of the administrator (@myidbot)
 3. Run the main script** and follow the instructions in the script
 
-*username not supported
 
+
+*username not supported
 **main.py
