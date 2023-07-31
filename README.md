@@ -5,7 +5,7 @@ It will help you quickly get information about a problem or suggestion from user
 
 # Contribute
 1. iNeonYT — @iNeonYT
-2. PyCodeMan - @PyCodeMan
+2. PyCodeMan — @PyCodeMan
 
 #    Installation instructions in Termux:
 1. pkg update & pkg upgrade
