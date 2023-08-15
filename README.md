@@ -10,7 +10,7 @@ It will help you quickly get information about a problem or suggestion from user
 #    Installation instructions in Termux:
 1. pkg update & pkg upgrade
 2. apt install curl git python3 openssh -y
-3. git clone https://github.com/NeonAmigo/TSB.git
+3. git clone https://github.com/NeonAmigo/TSB
 4. cd TSB
 5. pip install -r requirements.txt
 6. python main.py
